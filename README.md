@@ -7,6 +7,7 @@ This project manages employees along with their department relationships.
 
 ## 📁 Project Structure
 
+```
 src/
  └── main/
      ├── java/
@@ -32,8 +33,7 @@ src/
           ├── application.properties
           ├── static/
           └── templates/
-
----
+```
 
 ## 🚀 Features
 
