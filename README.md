@@ -53,8 +53,7 @@ src/
 - Java
 - Spring Boot
 - Spring Data JPA
-- Hibernate
-- MySQL / H2 Database
+- MySQL 
 - Postman (API testing)
 
 ---
